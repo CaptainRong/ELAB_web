@@ -1,0 +1,35 @@
+{
+    "public_message": {
+        "announcement": "",
+        "about": [
+            {
+                "title": "密码",
+                "content": [
+                    "elab网的wifi:elab2023",
+                    "elab网的wifi:elab2023",
+                    "elab网的wifi:elab2023"
+                ]
+            },
+            {
+                "title": "密码",
+                "content": [
+                    "elab网的wifi:elab2023",
+                    "elab网的wifi:elab2023",
+                    "elab网的wifi:elab2023"
+                ]
+            }
+        ]
+    },
+    "clock_in": {
+        "start_time": "8:00:00",
+        "end_time": "22:00:00",
+        "record_expire_day": 15,
+        "update_weekly_time": "23:00:00",
+        "required_duration": {
+            "default": 1,
+            "member": {},
+            "group": {}
+        }
+    },
+    "sign_in": {}
+}
