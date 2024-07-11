@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d63f46c2.css",
+    "main.js": "/static/js/main.342dc4f2.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/elab_calendar_icon.svg": "/static/media/elab_calendar_icon.4e0f8ecf8285efb39e6a6dd854b9920f.svg",
+    "static/media/reimbursement_apply.svg": "/static/media/reimbursement_apply.ec78cb199c502d3cbd3bd777c761cc29.svg",
+    "static/media/manager_panel_icon.svg": "/static/media/manager_panel_icon.1731256bc5470a697efaa77b4e06cfde.svg",
+    "index.html": "/index.html",
+    "static/media/member_list_icon.svg": "/static/media/member_list_icon.b7f7d471b4b8f428975cf084f8730a89.svg",
+    "static/media/material_management_system_icon.svg": "/static/media/material_management_system_icon.b58b23643f69cab33336987f6bc000cd.svg",
+    "static/media/research_assistant_apply_icon.svg": "/static/media/research_assistant_apply_icon.ffa5b54064af6d94fe28acb91cb8a197.svg",
+    "static/media/score_inquiry_icon.svg": "/static/media/score_inquiry_icon.dbe72bc82e0fc2f367922527182c2a03.svg",
+    "static/media/award_apply_icon.svg": "/static/media/award_apply_icon.95827f78a5b109874ce3f1242bac70fd.svg",
+    "static/media/sign_in_sytem_icon.svg": "/static/media/sign_in_sytem_icon.decafd09f74f3defe92cbc572bbf2508.svg",
+    "main.d63f46c2.css.map": "/static/css/main.d63f46c2.css.map",
+    "main.342dc4f2.js.map": "/static/js/main.342dc4f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d63f46c2.css",
+    "static/js/main.342dc4f2.js"
+  ]
+}
